@@ -1,5 +1,6 @@
 {
   "ambientDependencies": {
+    "mockery": "github:DefinitelyTyped/DefinitelyTyped/mockery/mockery.d.ts#3a022a9a6407ec0bae5d1d334e3211a7ede6c220",
     "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#48c1e3c1d6baefa4f1a126f188c27c4fefd36bff",
     "sinon": "github:DefinitelyTyped/DefinitelyTyped/sinon/sinon.d.ts#6e7d83167d86d857817bd492786f8304f5c4a0e4",
     "tape": "github:DefinitelyTyped/DefinitelyTyped/tape/tape.d.ts#01efb63365676e6db39bdc7b3891121b172b6b45"
