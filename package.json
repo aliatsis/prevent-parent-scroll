@@ -6,15 +6,15 @@
     "postinstall": "npm run prepare",
     "clean": "rm -rf dist",
     "precompile": "npm run clean",
-    "compile": "node_modules/typescript/bin/tsc -p .",
-    "watch": "node_modules/watch/cli.js 'npm run test' src",
+    "compile": "node_modules/.bin/tsc -p .",
+    "watch": "node_modules/.bin/watch 'npm run test' src",
     "prepare": "npm run typings && npm run test",
     "prestart": "npm run prepare",
     "start": "node dist/index.js",
-    "typings": "node_modules/typings/dist/bin/typings.js i",
+    "typings": "node_modules/.bin/typings i",
     "dev": "npm run watch",
     "pretest": "npm run compile",
-    "test": "node_modules/tape/bin/tape 'dist/**/*.spec.js' | tap-spec"
+    "test": "node_modules/.bin/tape 'dist/**/*.spec.js' | tap-spec"
   },
   "repository": {
     "type": "git",
