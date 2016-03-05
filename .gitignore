@@ -49,6 +49,8 @@ tmp
 *.mode1v3
 *.perspectivev3
 *.pbxuser
+*.tgz
+*.d.ts
 build/
 typings
 dist

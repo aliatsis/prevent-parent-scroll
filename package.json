@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "dist/index.js",
   "scripts": {
-    "postinstall": "npm run prepare",
+    "preversion": "npm run prepare",
     "clean": "rm -rf dist",
     "precompile": "npm run clean",
     "compile": "node_modules/.bin/tsc -p .",
@@ -35,5 +35,6 @@
   "engines": {
     "node": "4.3.x",
     "npm": "3.8.x"
-  }
+  },
+  "typings": "dist/index.d.ts"
 }
