@@ -1,9 +1,13 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "ES5",
+    "target": "es5",
     "outDir": "dist",
-    "noImplicitAny": true
+    "module": "commonjs",
+    "moduleResolution": "classic",
+    "declaration": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "sourceMap": true
   },
   "exclude": [
     "typings/browser.d.ts",
