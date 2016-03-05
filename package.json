@@ -6,7 +6,7 @@
     "postinstall": "npm run prepare",
     "clean": "rm -rf dist",
     "precompile": "npm run clean",
-    "compile": "node_modules/.bin/tsc -p .",
+    "compile": "node_modules/.bin/tsc -d -p .",
     "watch": "node_modules/.bin/watch 'npm run test' src",
     "prepare": "npm run typings && npm run test",
     "prestart": "npm run prepare",
