@@ -5,5 +5,3 @@ node_modules/
 
 !index.d.ts
 !index.ref.d.ts
-!typings/
-!typings/**/*.d.ts
