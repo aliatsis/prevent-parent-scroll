@@ -50,7 +50,6 @@ tmp
 *.perspectivev3
 *.pbxuser
 *.tgz
-*.d.ts
 build/
 typings
 dist
