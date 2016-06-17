@@ -1,7 +1,6 @@
 {
   "ambientDependencies": {
     "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504",
-    "es6-promise": "registry:dt/es6-promise#0.0.0+20160221190517",
     "mockery": "registry:dt/mockery#1.4.0+20141218124643",
     "node": "registry:dt/node#4.0.0+20160226132328",
     "sinon": "registry:dt/sinon#1.16.0+20151027143416",
