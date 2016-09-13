@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/tmp": true,
+    "**/dist": true,
+    "**/typings": true
+  }
+}
