@@ -19,6 +19,7 @@
     "url": "git+https://github.com/creditiq/base.git"
   },
   "devDependencies": {
+    "@types/es6-promise": "~0.0.32",
     "@types/mockery": "~1.4.29",
     "@types/node": "~6.0.45",
     "@types/sinon": "~1.16.31",
