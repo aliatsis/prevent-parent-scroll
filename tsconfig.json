@@ -16,7 +16,8 @@
     "noFallthroughCasesInSwitch": true,
     "jsx": "react",
     "types": [
-      "node"
+      "node",
+      "es6-promise"
     ]
   },
   "include": [
