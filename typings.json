@@ -1,9 +1,0 @@
-{
-  "ambientDependencies": {
-    "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504",
-    "mockery": "registry:dt/mockery#1.4.0+20141218124643",
-    "node": "registry:dt/node#4.0.0+20160226132328",
-    "sinon": "registry:dt/sinon#1.16.0+20151027143416",
-    "tape": "registry:dt/tape#4.2.2+20151206035103"
-  }
-}

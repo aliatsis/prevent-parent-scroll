@@ -51,5 +51,4 @@ tmp
 *.pbxuser
 *.tgz
 build/
-typings
 dist
