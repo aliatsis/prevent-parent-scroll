@@ -4,7 +4,6 @@
     "outDir": "dist",
     "module": "commonjs",
     "moduleResolution": "node",
-    "compileOnSave": false,
     "declaration": true,
     "noImplicitAny": true,
     "removeComments": true,
@@ -21,6 +20,7 @@
       "es6-promise"
     ]
   },
+  "compileOnSave": false,
   "include": [
     "src/**/*"
   ],
