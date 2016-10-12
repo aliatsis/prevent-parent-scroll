@@ -4,6 +4,11 @@
 Prevent scroll of an HTML Element from bubbling to its parents.
 It is vanilla JS and Typescript compatible.
 
+##Install:
+```
+npm i --save prevent-parent-scroll
+```
+
 ##Usage:
 
 ```
