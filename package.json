@@ -2,6 +2,13 @@
   "name": "prevent-parent-scroll",
   "version": "0.0.0",
   "main": "dist/index.js",
+  "description": "Prevent scroll of an HTML Element from bubbling to its parents",
+  "keywords": [
+    "prevent",
+    "parent",
+    "scroll",
+    "mousewheel"
+  ],
   "scripts": {
     "preversion": "npm run test",
     "clean": "rm -rf dist",
