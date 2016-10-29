@@ -35,8 +35,8 @@
     "watch": "~0.17.1"
   },
   "engines": {
-    "node": "4.3.x",
-    "npm": "3.8.x"
+    "node": ">=4.3.x",
+    "npm": ">=3.8.x"
   },
   "typings": "dist/index.d.ts"
 }
