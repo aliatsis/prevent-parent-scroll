@@ -19,7 +19,6 @@
     "url": "git+https://github.com/creditiq/base.git"
   },
   "devDependencies": {
-    "@types/es6-promise": "~0.0.32",
     "@types/mockery": "~1.4.29",
     "@types/node": "~6.0.45",
     "@types/sinon": "~1.16.31",
@@ -32,7 +31,7 @@
     "tape": "~4.5.1",
     "tape-promise": "~1.0.1",
     "tslint": "~3.15.0",
-    "typescript": "~2.0.0",
+    "typescript": "~2.1.0-dev.20161029",
     "watch": "~0.17.1"
   },
   "engines": {
