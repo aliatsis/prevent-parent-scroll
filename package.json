@@ -41,5 +41,7 @@
     "node": ">=4.3.x",
     "npm": ">=3.8.x"
   },
-  "typings": "dist/index.d.ts"
+  "typings": "dist/index.d.ts",
+  "description": "placeholder",
+  "license": "UNLICENSED"
 }
