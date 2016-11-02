@@ -1,8 +1,8 @@
 {
   "name": "prevent-parent-scroll",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
-  "description": "Prevent scroll of an HTML Element from bubbling to its parents",
+  "description": "placeholder",
   "keywords": [
     "prevent",
     "parent",
@@ -49,6 +49,5 @@
     "npm": ">=3.8.x"
   },
   "typings": "dist/index.d.ts",
-  "description": "placeholder",
   "license": "UNLICENSED"
 }
