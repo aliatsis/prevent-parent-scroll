@@ -1,13 +1,14 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es6",
     "outDir": "dist",
     "module": "commonjs",
     "moduleResolution": "node",
     "declaration": true,
     "noImplicitAny": true,
     "removeComments": true,
-    "sourceMap": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
     "strictNullChecks": true,
     "noImplicitThis": true,
     "noImplicitReturns": true,
@@ -16,8 +17,7 @@
     "noFallthroughCasesInSwitch": true,
     "jsx": "react",
     "types": [
-      "node",
-      "es6-promise"
+      "node"
     ]
   },
   "compileOnSave": false,
