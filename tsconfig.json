@@ -15,10 +15,7 @@
     "noUnusedParameters": true,
     "noUnusedLocals": true,
     "noFallthroughCasesInSwitch": true,
-    "jsx": "react",
-    "types": [
-      "node"
-    ]
+    "jsx": "react"
   },
   "compileOnSave": false,
   "include": [
