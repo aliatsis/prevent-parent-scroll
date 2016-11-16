@@ -49,5 +49,5 @@
     "npm": ">=3.8.x"
   },
   "typings": "dist/index.d.ts",
-  "license": "UNLICENSED"
+  "license": "MIT"
 }
