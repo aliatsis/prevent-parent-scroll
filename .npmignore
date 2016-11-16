@@ -1,11 +1,7 @@
 *
-!dist/*
-!dist/.*
-!src/*
-!src/.*
+!dist/**/*
+!src/**/*
+*.spec.*
+*.test.*
 *.spec.d.ts
-*.spec.ts
-*.spec.js
 *.test.d.ts
-*.test.ts
-*.test.js
