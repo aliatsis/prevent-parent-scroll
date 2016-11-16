@@ -41,7 +41,7 @@
     "tape": "~4.5.1",
     "tape-promise": "~1.0.1",
     "tslint": "~3.15.0",
-    "typescript": "~2.1.0-dev.20161029",
+    "typescript": "~2.1.0",
     "watch": "~0.17.1"
   },
   "engines": {
