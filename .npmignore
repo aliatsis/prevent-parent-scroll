@@ -1,3 +1,11 @@
-node_modules/
-*.log
-*.tgz
+*
+!dist/*
+!dist/.*
+!src/*
+!src/.*
+*.spec.d.ts
+*.spec.ts
+*.spec.js
+*.test.d.ts
+*.test.ts
+*.test.js
